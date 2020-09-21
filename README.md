@@ -1,3 +1,3 @@
 # iot
 EE629-2020F
-This is mainly for cource EE629 weekly report, code and project.
+This repository is for EE-629 weekly report, code and project.
