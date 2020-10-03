@@ -1,0 +1,6 @@
+Week 4 Report (Sept 20 - 26)
+
+I spend more time on Python coding this week. I finished 5 easy tasks and 4 medium tasks on Leetcode.
+Also, i reviewed Lecture 2 and found some interesting projects based on Rasberry Pi on Github. 
+
+This week i got an interview for F1 visa in Cambodia. And i passed. Hope i can be in the classroom soon.
