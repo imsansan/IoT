@@ -1,8 +1,8 @@
 Week 3 Report (Sept 13 - 19)
 
-This week i installed OS on my Raspberry Pi 4B.
-Also some basic package like Python3, JupyterNotebook, Pytorch.
+This week, I installed OS on my Raspberry Pi 4B.
+Also some basic packages like Python3, JupyterNotebook, and Pytorch.
 And replace mirror source with Tsinghua open mirror source.
 
-The biggest problem for me is DOS command. I have idea about what to do next but i don't know the code.
-Maybe in the future i should spend more time learning DOS command.
+The biggest problem for me is shell commands. I have idea about what to do next but I don't know the code.
+Maybe, in the future, I should spend more time learning shell commands.
