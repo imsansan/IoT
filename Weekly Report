@@ -2,16 +2,19 @@ Week 13 report (Nov 22-Nov 28)
 [2020-10-18]
 
 Week 12 report (Nov 15-Nov 21)
-[2020-10-18]
+[2020-11-18]Review lecture 10. Finish lab 10A.
 
 Week 11 report (Nov 8-Nov 14)
-[2020-10-18]
+[2020-11-11]Review lecture 9.
 
 Week 10 report (Nov 1-Nov 7)
-[2020-10-18]
+[2020-11-4]Review lecture 8 and finish lab 8A.
+[2020-11-6]Install TensorFlow on Pi, and look for some projects to practise.
+[2020-11-7]Run titanic.csv with decision tree solution.
 
 Week 9 report (Oct 25 - Oct 31)
-[2020-10-18]
+[2020-10-27]Review lecture 6 and finish lab 6B.
+[2020-10-30]Review lecture 7.
 
 Week 8 report (Oct 18 - Oct 24)
 [2020-10-18]Learn Crossbaar.io and Paho finish lab 5A
@@ -43,4 +46,3 @@ Also some basic packages like Python3, JupyterNotebook, and Pytorch.
 And replace mirror source with Tsinghua open mirror source.
 The biggest problem for me is shell commands. I have idea about what to do next but I don't know the code.
 Maybe, in the future, I should spend more time learning shell commands.
-
