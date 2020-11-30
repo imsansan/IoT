@@ -1,0 +1,6 @@
+Project name: Environment monitoring and alert
+
+Hardware: Raspberry Pi 4 and Sense HAT
+
+Main function: Indoor environment monitoring (pressure, temperature and humidity) and alert via e-mail.
+
