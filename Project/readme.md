@@ -1,2 +1,3 @@
 []I received Sense HAT and begin to test it.
-![image](https://github.com/imsansan/IoT/raw/master/img/SenseHAT.jpg)
+
+<img src="https://github.com/imsansan/IoT/blob/master/Project/img/SenseHAT.jpg" width="375">
