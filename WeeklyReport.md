@@ -24,13 +24,18 @@ Week 10 report (Nov 1-Nov 7)
 
 Week 9 report (Oct 25 - Oct 31)
 [2020-10-27]Review lecture 6 and finish lab 6B.
+
 <img src="https://github.com/imsansan/IoT/blob/master/img/lab6b1.png" width="375">
+
 <img src="https://github.com/imsansan/IoT/blob/master/img/lab6b2.png" width="375">
+
 [2020-10-30]Review lecture 7.
 
 Week 8 report (Oct 18 - Oct 24)
 [2020-10-18]Learn Crossbaar.io and Paho finish lab 5A
+
 <img src="https://github.com/imsansan/IoT/blob/master/img/lab5a.png" width="375">
+
 [2020-10-19]Install and run Docker
 
 Week 7 report (Oct 11 - Oct 17)
@@ -40,8 +45,11 @@ Week 7 report (Oct 11 - Oct 17)
 
 Week 6 report (Oct 3 - Oct 10)
 [2020-10-7]Finish Lab 4A
+
 <img src="https://github.com/imsansan/IoT/blob/master/img/web.png" width="375">
+
 <img src="https://github.com/imsansan/IoT/blob/master/img/error.png" width="375">
+
 [2020-10-8]Finish daily task on Leetcode with Python
 [2020-10-9]Finish daily task on Leetcode with Python
 [2020-10-10]Finish daily task on Leetcode with Python
@@ -49,9 +57,13 @@ Week 6 report (Oct 3 - Oct 10)
 Week 5 report (Sept 27 - Oct 3)
 [2020-9-28]Read publication "Interaction Graphs for Object Importance Estimation in On-road Driving Videos", by Zehua Zhang.
 [2020-10-1]Review Lesson 4 and finish Lab 3A
+
 <img src="https://github.com/imsansan/IoT/blob/master/img/lab3A1.png" width="375">
+
 <img src="https://github.com/imsansan/IoT/blob/master/img/lab3A2.png" width="375">
+
 <img src="https://github.com/imsansan/IoT/blob/master/img/lab3A3.png" width="375">
+
 
 
 Week 4 Report (Sept 20 - 26)
