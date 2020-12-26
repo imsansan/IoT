@@ -10,7 +10,7 @@ Week 11 report (Nov 8-Nov 14)
 
 Week 10 report (Nov 1-Nov 7)
 [2020-11-4]Review lecture 8 and finish lab 8A.
-<img src="https://github.com/imsansan/IoT/tree/master/img/lab8-1.png" width="375">
+<img src="https://github.com/imsansan/IoT/blob/master/img/lab8-1.png" width="375">
 <img src="https://github.com/imsansan/IoT/tree/master/img/lab8-2.png" width="375">
 <img src="https://github.com/imsansan/IoT/tree/master/img/lab8-3.png" width="375">
 <img src="https://github.com/imsansan/IoT/tree/master/img/lab8-4.png" width="375">
