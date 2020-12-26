@@ -9,4 +9,4 @@ There is a problem that the temperature is always 10°C higher than environment 
 
 [2020-12-1]Because of black friday, the delivery has a delay. So I decided to finish e-mail alert first.
 
-<img src="https://github.com/imsansan/IoT/blob/master/Project/img/email.png" width="375">
+<img src="https://github.com/imsansan/IoT/blob/master/Project/img/email1.png" width="375">
